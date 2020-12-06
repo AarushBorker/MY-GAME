@@ -75,7 +75,7 @@ function setup() {
 */
   good = createSprite(80,40,20,50);
   good.addAnimation("running", good_running);
-  good.addAnimation("collided", good_dead);
+  
   good.addAnimation("runleft", good_leftrun)
   good.scale = 1.5;
 
