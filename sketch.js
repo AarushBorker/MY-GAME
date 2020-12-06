@@ -22,7 +22,7 @@ function preload(){
   
   good_running =   loadAnimation("PNG/Knight/Run/run6.png",);
   good_attack = loadAnimation("PNG/Knight/Run_Attack/run_attack4.png")
-  good_dead = loadAnimation("PNG/Knight/death/death4.png");
+  
   good_leftrun = loadAnimation("PNG/Knight/Run/run6back.png")
 
   groundImage = loadImage("PNG/City4/Bright/NewCity4.jpg");
